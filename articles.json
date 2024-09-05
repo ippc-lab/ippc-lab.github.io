@@ -1,0 +1,18 @@
+[
+  {
+    "title": "An Automated Heart Shunt Recognition Pipeline Using Deep Neural Networks",
+    "journal": "Journal of Imaging Informatics in Medicine",
+    "date": "Feb 2024",
+    "authors": "Weidong Wang, Hongme Zhang, Yizhen Li",
+    "link": "https://link.springer.com/article/10.1007/s10278-024-01047-4",
+    "image": "./images/10278_2024_1047_Fig1_HTML.webp"
+  },
+  {
+    "title": "Convolutional Neural Network-Based Speckle Tracking for Ultrasound Strain Elastography: An Unsupervised Learning Approach",
+    "journal": "IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control",
+    "date": "Feb 2023",
+    "authors": "Shuojie Wen, Bo Peng, Xingyue Wei",
+    "link": "https://ieeexplore.ieee.org/abstract/document/10041980",
+    "image": "./images/jiang1-3243539-large.gif"
+  }
+]
