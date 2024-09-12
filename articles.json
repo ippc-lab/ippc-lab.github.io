@@ -5,7 +5,8 @@
     "date": "Jun 2024",
     "authors": "Quan Zhang, Liang Yang, Ru Bai, Bo Peng",
     "link": "https://www.sciencedirect.com/science/article/pii/S0968432824000829",
-    "image": "./images/1-s2.0-S0968432824000829-gr1_lrg.jpg"
+    "image": "./images/1-s2.0-S0968432824000829-gr1_lrg.jpg",
+    "type": 1
   },
   {
     "title": "Seismic multiple attenuation based on improved U-Net",
@@ -13,7 +14,8 @@
     "date": "Apr 2024",
     "authors": "Quan Zhang, Xiao-yu Lv, Qin Lei, Bo Peng",
     "link": "https://link.springer.com/article/10.1007/s11770-024-1080-0",
-    "image": "./images/PixPin_2024-09-11_16-40-52.png"
+    "image": "./images/PixPin_2024-09-11_16-40-52.png",
+    "type": 1
   },
   {
     "title": "ISHS-Net: Single-View 3D Reconstruction by Fusing Features of Image and Shape Hierarchical Structures",
@@ -21,7 +23,8 @@
     "date": "Nov 2023",
     "authors": "Guoqing Gao, Liang Yang, Quan Zhang, Chongmin Wang",
     "link": "https://www.mdpi.com/2072-4292/15/23/5449",
-    "image": "./images/remotesensing-15-05449-g002.webp"
+    "image": "./images/remotesensing-15-05449-g002.webp",
+    "type": 1
   },
   {
     "title": "FFT pattern recognition of crystal HRTEM image with deep learning",
@@ -29,7 +32,8 @@
     "date": "Jan 2023",
     "authors": "Quan Zhang, Ru Bai, Bo Peng, Zhen Wang",
     "link": "https://www.sciencedirect.com/science/article/pii/S0968432822001986",
-    "image": "./images/1-s2.0-S0968432822001986-gr11_lrg.jpg"
+    "image": "./images/1-s2.0-S0968432822001986-gr11_lrg.jpg",
+    "type": 1
   },
   {
     "title": "Radon transform based on greedy fast iterative shrinkage threshold and its application in multiple suppression",
@@ -37,7 +41,8 @@
     "date": "Jun 2022",
     "authors": "Quan Zhang, Qin Lei, Baiyue Lin, Bo Peng",
     "link": "https://html.rhhz.net/SYDQWLKT/2022-6-1332.htm",
-    "image": "./images/sydqwlkt-57-6-1332-2.jpg"
+    "image": "./images/sydqwlkt-57-6-1332-2.jpg",
+    "type": 2
   },
   {
     "title": "Real-time object detector for low-end devices",
@@ -45,7 +50,8 @@
     "date": "Jan 2022",
     "authors": "Lei Zhao, Quan Zhang, Bo Peng, Liang Yang",
     "link": "https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-31/issue-1/013016/Real-time-object-detector-for-low-end-devices/10.1117/1.JEI.31.1.013016.short",
-    "image": "./images/PixPin_2024-09-12_10-53-23.png"
+    "image": "./images/PixPin_2024-09-12_10-53-23.png",
+    "type": 2
   },
   {
     "title": "Faster object detector for drone-captured images",
@@ -53,7 +59,8 @@
     "date": "Aug 2022",
     "authors": "Lei Zhao, Quan Zhang, Bo Peng, Yangyi Liu",
     "link": "https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-31/issue-4/043033/Faster-object-detector-for-drone-captured-images/10.1117/1.JEI.31.4.043033.short#_=_",
-    "image": "./images/PixPin_2024-09-12_10-56-12.png"
+    "image": "./images/PixPin_2024-09-12_10-56-12.png",
+    "type": 2
   },
   {
     "title": "Parabolic Radon transform parallel algorithm for CPU-GPU heterogeneous platform",
@@ -61,7 +68,8 @@
     "date": "Aug 2022",
     "authors": "Quan Zhang, Baiyue Lin, Bo Yang, Bo Peng",
     "link": "https://html.rhhz.net/SYDQWLKT/2020-6-1263.htm",
-    "image": "./images/sydqwlkt-55-6-1263-1.jpg"
+    "image": "./images/sydqwlkt-55-6-1263-1.jpg",
+    "type": 2
   },
   {
     "title": "An image quality assessment method based on edge extraction and singular value for blurriness",
@@ -69,7 +77,8 @@
     "date": "Mar 2024",
     "authors": "Lei Zhou, Chuanlin Liu, Amit Yadav, Sami Azam & Asif Karim",
     "link": "https://link.springer.com/article/10.1007/s00138-024-01522-6",
-    "image": "./images/138_2024_1522_Fig3_HTML.webp"
+    "image": "./images/138_2024_1522_Fig3_HTML.webp",
+    "type": 1
   },
   {
     "title": "Dual-branch collaborative Siamese network for visual tracking",
@@ -77,7 +86,8 @@
     "date": "Aug 2024",
     "authors": "Wenjun Zhou, Yao Liu, Nan Wang, Yifan Wang",
     "link": "https://www.sciencedirect.com/science/article/pii/S1051200424003415",
-    "image": "./images/1-s2.0-S1051200424003415-gr002_lrg.jpg"
+    "image": "./images/1-s2.0-S1051200424003415-gr002_lrg.jpg",
+    "type": 1
   },
   {
     "title": "Efficient Siamese model for visual object tracking with attention-based fusion modules",
@@ -85,7 +95,8 @@
     "date": "Jul 2024",
     "authors": "Wenjun Zhou, Yao Liu, Nan Wang, Dong Liang & Bo Peng",
     "link": "https://link.springer.com/article/10.1007/s11760-024-03429-1",
-    "image": "./images/11760_2024_3429_Fig1_HTML.webp"
+    "image": "./images/11760_2024_3429_Fig1_HTML.webp",
+    "type": 1
   },
   {
     "title": "Efficient Microbubble Trajectory Tracking in Ultrasound Localization Microscopy Using a Gated Recurrent Unit-Based Multitasking Temporal Neural Network",
@@ -93,7 +104,8 @@
     "date": "July 2024",
     "authors": "Yuting Zhang, Wenjun Zhou, Lijie Huang, Yongjie Shao",
     "link": "https://ieeexplore.ieee.org/abstract/document/10589426",
-    "image": "./images/PixPin_2024-09-12_11-12-22.png"
+    "image": "./images/PixPin_2024-09-12_11-12-22.png",
+    "type": 1
   },
   {
     "title": "Precision in visual object tracking: a dual-branch approach",
@@ -101,7 +113,8 @@
     "date": "Mar 2024",
     "authors": "WenJun Zhou, Nan Wang, Dong Liang, Bo Peng",
     "link": "https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-33/issue-2/023023/Precision-in-visual-object-tracking-a-dual-branch-approach/10.1117/1.JEI.33.2.023023.short#_=_",
-    "image": "./images/PixPin_2024-09-12_11-14-30.png"
+    "image": "./images/PixPin_2024-09-12_11-14-30.png",
+    "type": 1
   },
   {
     "title": "Visual Tracking Based on Efficient Dual-Branch Siamese Network",
@@ -109,7 +122,8 @@
     "date": "Oct 2023",
     "authors": "WenJun Zhou, Nan Wang, Dong Liang, Bo Peng",
     "link": "https://ieeexplore.ieee.org/abstract/document/10394447",
-    "image": "./images/10394447-fig-1-source-large.gif"
+    "image": "./images/10394447-fig-1-source-large.gif",
+    "type": 1
   },
   {
     "title": "A BiGRU joint optimized attention network for recognition of drilling conditions",
@@ -117,7 +131,8 @@
     "date": "Jan 2024",
     "authors": "Ying Qiao, Hong-Min Xu, Wen-Jun Zhou, Bo Peng",
     "link": "https://www.sciencedirect.com/science/article/pii/S1995822623001462",
-    "image": "./images/1-s2.0-S1995822623001462-gr1.jpg"
+    "image": "./images/1-s2.0-S1995822623001462-gr1.jpg",
+    "type": 3
   },
   {
     "title": "Spatial-Temporal Graph Convolutional Network for Insomnia Classification via Brain Functional Connectivity Imaging of rs-fMRI",
@@ -125,7 +140,8 @@
     "date": "Dec 2023",
     "authors": "Wenjun Zhou, Weicheng Luo, Liang Gong, Jing Ou & Bo Peng",
     "link": "https://link.springer.com/chapter/10.1007/978-981-99-8558-6_10",
-    "image": "./images/557759_1_En_10_Fig1_HTML.webp"
+    "image": "./images/557759_1_En_10_Fig1_HTML.webp",
+    "type": 1
   },
   {
     "title": "Co-occurrence spatial–temporal model for adaptive background initialization in high-dynamic complex scenes",
@@ -133,7 +149,8 @@
     "date": "Sep 2023",
     "authors": "Wenjun Zhou, Yuheng Deng, Bo Peng, Sheng Xiang",
     "link": "https://www.sciencedirect.com/science/article/pii/S0923596523001388",
-    "image": "./images/1-s2.0-S0923596523001388-gr3.jpg"
+    "image": "./images/1-s2.0-S0923596523001388-gr3.jpg",
+    "type": 1
   },
   {
     "title": "Robust Spatial-Temporal Correlation Model for Background Initialization in Severe Scene",
@@ -141,7 +158,8 @@
     "date": "Jun 2021",
     "authors": "Yuheng Deng, Wenjun Zhou, Bo Peng, Dong Liang",
     "link": "https://ieeexplore.ieee.org/abstract/document/9414796",
-    "image": "./images/deng1-p5-deng-large.gif"
+    "image": "./images/deng1-p5-deng-large.gif",
+    "type": 1
   },
   {
     "title": "Neural Implicit 3D Reconstruction with Double Supervision",
@@ -149,7 +167,8 @@
     "date": "Oct 2023",
     "authors": "Yifan Wang, Tong Zhou, Ping Yang, Wenjun Zhou",
     "link": "https://ieeexplore.ieee.org/abstract/document/10394618",
-    "image": "./images/10394618-fig-1-source-large.gif"
+    "image": "./images/10394618-fig-1-source-large.gif",
+    "type": 1
   },
   {
     "title": "An Improved CenterNet Method for Wing Icing Detection",
@@ -157,7 +176,8 @@
     "date": "Dec 2023",
     "authors": "Yifan Wang，Jiatian Wei，Chenglin Zuo，Wenjun Zhou",
     "link": "https://tnuaa.nuaa.edu.cn/njhkhten/article/abstract/202306007",
-    "image": "./images/PixPin_2024-09-12_11-30-53.png"
+    "image": "./images/PixPin_2024-09-12_11-30-53.png",
+    "type": 1
   },
   {
     "title": "Shadow Detection of Remote Sensing Image by Fusion of Involution and Shunted Transformer",
@@ -165,6 +185,7 @@
     "date": "Dec 2023",
     "authors": "Yifan Wang, Jianlin Wang, Xian Huang, Tong Zhou",
     "link": "https://link.springer.com/chapter/10.1007/978-981-99-8462-6_27",
-    "image": "./images/553914_1_En_27_Fig1_HTML.webp"
+    "image": "./images/553914_1_En_27_Fig1_HTML.webp",
+    "type": 1
   }
 ]
