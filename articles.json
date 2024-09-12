@@ -1,5 +1,41 @@
 [
   {
+    "title": "Enhancing ECG Heartbeat classification with feature fusion neural networks and dynamic minority-biased batch weighting loss function",
+    "journal": "Physiological Measurement",
+    "date": "Jul 2024",
+    "authors": "Jiajun Cai, Junmei Song, Bo Peng",
+    "link": "https://iopscience.iop.org/article/10.1088/1361-6579/ad5cc0/meta",
+    "image": "./images/PixPin_2024-09-12_16-19-01.png",
+    "type": 4
+  },
+  {
+    "title": "Teacher-student guided knowledge distillation for unsupervised convolutional neural network-based speckle tracking in ultrasound strain elastography",
+    "journal": "Medical & Biological Engineering & Computing",
+    "date": "Apr 2024",
+    "authors": "Tianqiang Xiang, Yan Li, Hui Deng, Chao Tian, Bo Peng",
+    "link": "https://link.springer.com/article/10.1007/s11517-024-03078-z",
+    "image": "./images/11517_2024_3078_Fig1_HTML.webp",
+    "type": 4
+  },
+  {
+    "title": "An Automated Heart Shunt Recognition Pipeline Using Deep Neural Networks",
+    "journal": "Journal of Imaging Informatics in Medicine",
+    "date": "Feb 2024",
+    "authors": "Weidong Wang, Hongme Zhang, Yizhen Li, Yi Wang",
+    "link": "https://link.springer.com/article/10.1007/s10278-024-01047-4",
+    "image": "./images/10278_2024_1047_Fig1_HTML.webp",
+    "type": 4
+  },
+  {
+    "title": "Convolutional Neural Network-Based Speckle Tracking for Ultrasound Strain Elastography: An Unsupervised Learning Approach",
+    "journal": "IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control",
+    "date": "Feb 2023",
+    "authors": "Shuojie Wen, Bo Peng, Xingyue Wei, Jianwen Luo",
+    "link": "https://ieeexplore.ieee.org/abstract/document/10041980",
+    "image": "./images/tuffc-gagraphic-3243539.jpg",
+    "type": 4
+  },
+  {
     "title": "Phase division and recognition of crystal HRTEM images based on machine learning and deep learning",
     "journal": "Micron",
     "date": "Jun 2024",
@@ -105,7 +141,7 @@
     "authors": "Yuting Zhang, Wenjun Zhou, Lijie Huang, Yongjie Shao",
     "link": "https://ieeexplore.ieee.org/abstract/document/10589426",
     "image": "./images/PixPin_2024-09-12_11-12-22.png",
-    "type": 1
+    "type": 4
   },
   {
     "title": "Precision in visual object tracking: a dual-branch approach",
@@ -132,7 +168,7 @@
     "authors": "Wenjun Zhou, Weicheng Luo, Liang Gong, Jing Ou & Bo Peng",
     "link": "https://link.springer.com/chapter/10.1007/978-981-99-8558-6_10",
     "image": "./images/557759_1_En_10_Fig1_HTML.webp",
-    "type": 1
+    "type": 4
   },
   {
     "title": "Visual Tracking Based on Efficient Dual-Branch Siamese Network",
