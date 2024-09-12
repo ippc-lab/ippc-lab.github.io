@@ -1,83 +1,29 @@
 [
   {
-    "title": "Phase division and recognition of crystal HRTEM images based on machine learning and deep learning",
-    "journal": "Micron",
-    "date": "Jun 2024",
-    "authors": "Quan Zhang, Liang Yang, Ru Bai, Bo Peng",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0968432824000829",
-    "image": "./images/1-s2.0-S0968432824000829-gr1_lrg.jpg",
+    "title": "Neural Implicit 3D Reconstruction with Double Supervision",
+    "journal": "2023 IEEE International Conference on Systems, Man, and Cybernetics",
+    "date": "Oct 2023",
+    "authors": "Yifan Wang, Tong Zhou, Ping Yang, Wenjun Zhou",
+    "link": "https://ieeexplore.ieee.org/abstract/document/10394618",
+    "image": "./images/10394618-fig-1-source-large.gif",
     "type": 1
   },
   {
-    "title": "Seismic multiple attenuation based on improved U-Net",
-    "journal": "Applied Geophysics",
-    "date": "Apr 2024",
-    "authors": "Quan Zhang, Xiao-yu Lv, Qin Lei, Bo Peng",
-    "link": "https://link.springer.com/article/10.1007/s11770-024-1080-0",
-    "image": "./images/PixPin_2024-09-11_16-40-52.png",
+    "title": "An Improved CenterNet Method for Wing Icing Detection",
+    "journal": "Transactions of Nanjing University of Aeronautics and Astronautics",
+    "date": "Dec 2023",
+    "authors": "Yifan Wang，Jiatian Wei，Chenglin Zuo，Wenjun Zhou",
+    "link": "https://tnuaa.nuaa.edu.cn/njhkhten/article/abstract/202306007",
+    "image": "./images/PixPin_2024-09-12_11-30-53.png",
     "type": 1
   },
   {
-    "title": "ISHS-Net: Single-View 3D Reconstruction by Fusing Features of Image and Shape Hierarchical Structures",
-    "journal": "Remote Sensing",
-    "date": "Nov 2023",
-    "authors": "Guoqing Gao, Liang Yang, Quan Zhang, Chongmin Wang",
-    "link": "https://www.mdpi.com/2072-4292/15/23/5449",
-    "image": "./images/remotesensing-15-05449-g002.webp",
-    "type": 1
-  },
-  {
-    "title": "FFT pattern recognition of crystal HRTEM image with deep learning",
-    "journal": "Micron",
-    "date": "Jan 2023",
-    "authors": "Quan Zhang, Ru Bai, Bo Peng, Zhen Wang",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0968432822001986",
-    "image": "./images/1-s2.0-S0968432822001986-gr11_lrg.jpg",
-    "type": 1
-  },
-  {
-    "title": "Radon transform based on greedy fast iterative shrinkage threshold and its application in multiple suppression",
-    "journal": "OIL GEOPHYSICAL PROSPECTING",
-    "date": "Jun 2022",
-    "authors": "Quan Zhang, Qin Lei, Baiyue Lin, Bo Peng",
-    "link": "https://html.rhhz.net/SYDQWLKT/2022-6-1332.htm",
-    "image": "./images/sydqwlkt-57-6-1332-2.jpg",
-    "type": 3
-  },
-  {
-    "title": "Real-time object detector for low-end devices",
-    "journal": "Journal of Electronic Imaging",
-    "date": "Jan 2022",
-    "authors": "Lei Zhao, Quan Zhang, Bo Peng, Liang Yang",
-    "link": "https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-31/issue-1/013016/Real-time-object-detector-for-low-end-devices/10.1117/1.JEI.31.1.013016.short",
-    "image": "./images/PixPin_2024-09-12_10-53-23.png",
-    "type": 2
-  },
-  {
-    "title": "Faster object detector for drone-captured images",
-    "journal": "Journal of Electronic Imaging",
-    "date": "Aug 2022",
-    "authors": "Lei Zhao, Quan Zhang, Bo Peng, Yangyi Liu",
-    "link": "https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-31/issue-4/043033/Faster-object-detector-for-drone-captured-images/10.1117/1.JEI.31.4.043033.short#_=_",
-    "image": "./images/PixPin_2024-09-12_10-56-12.png",
-    "type": 2
-  },
-  {
-    "title": "Parabolic Radon transform parallel algorithm for CPU-GPU heterogeneous platform",
-    "journal": "OIL GEOPHYSICAL PROSPECTING",
-    "date": "Aug 2022",
-    "authors": "Quan Zhang, Baiyue Lin, Bo Yang, Bo Peng",
-    "link": "https://html.rhhz.net/SYDQWLKT/2020-6-1263.htm",
-    "image": "./images/sydqwlkt-55-6-1263-1.jpg",
-    "type": 3
-  },
-  {
-    "title": "An image quality assessment method based on edge extraction and singular value for blurriness",
-    "journal": "Machine Vision and Applications",
-    "date": "Mar 2024",
-    "authors": "Lei Zhou, Chuanlin Liu, Amit Yadav, Sami Azam & Asif Karim",
-    "link": "https://link.springer.com/article/10.1007/s00138-024-01522-6",
-    "image": "./images/138_2024_1522_Fig3_HTML.webp",
+    "title": "Shadow Detection of Remote Sensing Image by Fusion of Involution and Shunted Transformer",
+    "journal": "Pattern Recognition and Computer Vision",
+    "date": "Dec 2023",
+    "authors": "Yifan Wang, Jianlin Wang, Xian Huang, Tong Zhou",
+    "link": "https://link.springer.com/chapter/10.1007/978-981-99-8462-6_27",
+    "image": "./images/553914_1_En_27_Fig1_HTML.webp",
     "type": 1
   },
   {
@@ -162,30 +108,84 @@
     "type": 1
   },
   {
-    "title": "Neural Implicit 3D Reconstruction with Double Supervision",
-    "journal": "2023 IEEE International Conference on Systems, Man, and Cybernetics",
-    "date": "Oct 2023",
-    "authors": "Yifan Wang, Tong Zhou, Ping Yang, Wenjun Zhou",
-    "link": "https://ieeexplore.ieee.org/abstract/document/10394618",
-    "image": "./images/10394618-fig-1-source-large.gif",
+    "title": "An image quality assessment method based on edge extraction and singular value for blurriness",
+    "journal": "Machine Vision and Applications",
+    "date": "Mar 2024",
+    "authors": "Lei Zhou, Chuanlin Liu, Amit Yadav, Sami Azam & Asif Karim",
+    "link": "https://link.springer.com/article/10.1007/s00138-024-01522-6",
+    "image": "./images/138_2024_1522_Fig3_HTML.webp",
     "type": 1
   },
   {
-    "title": "An Improved CenterNet Method for Wing Icing Detection",
-    "journal": "Transactions of Nanjing University of Aeronautics and Astronautics",
-    "date": "Dec 2023",
-    "authors": "Yifan Wang，Jiatian Wei，Chenglin Zuo，Wenjun Zhou",
-    "link": "https://tnuaa.nuaa.edu.cn/njhkhten/article/abstract/202306007",
-    "image": "./images/PixPin_2024-09-12_11-30-53.png",
+    "title": "Phase division and recognition of crystal HRTEM images based on machine learning and deep learning",
+    "journal": "Micron",
+    "date": "Jun 2024",
+    "authors": "Quan Zhang, Liang Yang, Ru Bai, Bo Peng",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0968432824000829",
+    "image": "./images/1-s2.0-S0968432824000829-gr1_lrg.jpg",
     "type": 1
   },
   {
-    "title": "Shadow Detection of Remote Sensing Image by Fusion of Involution and Shunted Transformer",
-    "journal": "Pattern Recognition and Computer Vision",
-    "date": "Dec 2023",
-    "authors": "Yifan Wang, Jianlin Wang, Xian Huang, Tong Zhou",
-    "link": "https://link.springer.com/chapter/10.1007/978-981-99-8462-6_27",
-    "image": "./images/553914_1_En_27_Fig1_HTML.webp",
+    "title": "Seismic multiple attenuation based on improved U-Net",
+    "journal": "Applied Geophysics",
+    "date": "Apr 2024",
+    "authors": "Quan Zhang, Xiao-yu Lv, Qin Lei, Bo Peng",
+    "link": "https://link.springer.com/article/10.1007/s11770-024-1080-0",
+    "image": "./images/PixPin_2024-09-11_16-40-52.png",
+    "type": 3
+  },
+  {
+    "title": "ISHS-Net: Single-View 3D Reconstruction by Fusing Features of Image and Shape Hierarchical Structures",
+    "journal": "Remote Sensing",
+    "date": "Nov 2023",
+    "authors": "Guoqing Gao, Liang Yang, Quan Zhang, Chongmin Wang",
+    "link": "https://www.mdpi.com/2072-4292/15/23/5449",
+    "image": "./images/remotesensing-15-05449-g002.webp",
     "type": 1
+  },
+  {
+    "title": "FFT pattern recognition of crystal HRTEM image with deep learning",
+    "journal": "Micron",
+    "date": "Jan 2023",
+    "authors": "Quan Zhang, Ru Bai, Bo Peng, Zhen Wang",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0968432822001986",
+    "image": "./images/1-s2.0-S0968432822001986-gr11_lrg.jpg",
+    "type": 1
+  },
+  {
+    "title": "Radon transform based on greedy fast iterative shrinkage threshold and its application in multiple suppression",
+    "journal": "OIL GEOPHYSICAL PROSPECTING",
+    "date": "Jun 2022",
+    "authors": "Quan Zhang, Qin Lei, Baiyue Lin, Bo Peng",
+    "link": "https://html.rhhz.net/SYDQWLKT/2022-6-1332.htm",
+    "image": "./images/sydqwlkt-57-6-1332-2.jpg",
+    "type": 3
+  },
+  {
+    "title": "Real-time object detector for low-end devices",
+    "journal": "Journal of Electronic Imaging",
+    "date": "Jan 2022",
+    "authors": "Lei Zhao, Quan Zhang, Bo Peng, Liang Yang",
+    "link": "https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-31/issue-1/013016/Real-time-object-detector-for-low-end-devices/10.1117/1.JEI.31.1.013016.short",
+    "image": "./images/PixPin_2024-09-12_10-53-23.png",
+    "type": 2
+  },
+  {
+    "title": "Faster object detector for drone-captured images",
+    "journal": "Journal of Electronic Imaging",
+    "date": "Aug 2022",
+    "authors": "Lei Zhao, Quan Zhang, Bo Peng, Yangyi Liu",
+    "link": "https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-31/issue-4/043033/Faster-object-detector-for-drone-captured-images/10.1117/1.JEI.31.4.043033.short#_=_",
+    "image": "./images/PixPin_2024-09-12_10-56-12.png",
+    "type": 2
+  },
+  {
+    "title": "Parabolic Radon transform parallel algorithm for CPU-GPU heterogeneous platform",
+    "journal": "OIL GEOPHYSICAL PROSPECTING",
+    "date": "Aug 2022",
+    "authors": "Quan Zhang, Baiyue Lin, Bo Yang, Bo Peng",
+    "link": "https://html.rhhz.net/SYDQWLKT/2020-6-1263.htm",
+    "image": "./images/sydqwlkt-55-6-1263-1.jpg",
+    "type": 3
   }
 ]
