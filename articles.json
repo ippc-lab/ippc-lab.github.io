@@ -42,7 +42,7 @@
     "authors": "Quan Zhang, Qin Lei, Baiyue Lin, Bo Peng",
     "link": "https://html.rhhz.net/SYDQWLKT/2022-6-1332.htm",
     "image": "./images/sydqwlkt-57-6-1332-2.jpg",
-    "type": 2
+    "type": 3
   },
   {
     "title": "Real-time object detector for low-end devices",
@@ -69,7 +69,7 @@
     "authors": "Quan Zhang, Baiyue Lin, Bo Yang, Bo Peng",
     "link": "https://html.rhhz.net/SYDQWLKT/2020-6-1263.htm",
     "image": "./images/sydqwlkt-55-6-1263-1.jpg",
-    "type": 2
+    "type": 3
   },
   {
     "title": "An image quality assessment method based on edge extraction and singular value for blurriness",
