@@ -6,7 +6,7 @@
     "authors": "Jiajun Cai, Junmei Song, Bo Peng",
     "link": "https://iopscience.iop.org/article/10.1088/1361-6579/ad5cc0/meta",
     "image": "./images/PixPin_2024-09-12_16-19-01.png",
-    "type": 4
+    "type": 2
   },
   {
     "title": "Teacher-student guided knowledge distillation for unsupervised convolutional neural network-based speckle tracking in ultrasound strain elastography",
@@ -15,25 +15,43 @@
     "authors": "Tianqiang Xiang, Yan Li, Hui Deng, Chao Tian, Bo Peng",
     "link": "https://link.springer.com/article/10.1007/s11517-024-03078-z",
     "image": "./images/11517_2024_3078_Fig1_HTML.webp",
-    "type": 4
+    "type": 1
   },
   {
     "title": "An Automated Heart Shunt Recognition Pipeline Using Deep Neural Networks",
     "journal": "Journal of Imaging Informatics in Medicine",
     "date": "Feb 2024",
-    "authors": "Weidong Wang, Hongme Zhang, Yizhen Li, Yi Wang",
+    "authors": "Weidong Wang, Hongme Zhang, Yizhen Li, Yi Wang, Qingfeng Zhang, Geqi Ding, Lixue Yin, Jinshan Tang, Bo Peng",
     "link": "https://link.springer.com/article/10.1007/s10278-024-01047-4",
     "image": "./images/10278_2024_1047_Fig1_HTML.webp",
-    "type": 4
+    "type": 1
   },
   {
     "title": "Convolutional Neural Network-Based Speckle Tracking for Ultrasound Strain Elastography: An Unsupervised Learning Approach",
     "journal": "IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control",
     "date": "Feb 2023",
-    "authors": "Shuojie Wen, Bo Peng, Xingyue Wei, Jianwen Luo",
+    "authors": "Shuojie Wen, Bo Peng, Xingyue Wei, Jianwen Luo, Jingfeng Jiang",
     "link": "https://ieeexplore.ieee.org/abstract/document/10041980",
     "image": "./images/tuffc-gagraphic-3243539.jpg",
-    "type": 4
+    "type": 1
+  },
+  {
+    "title": "A GPU-Accelerated 3-D Coupled Subsample Estimation Algorithm for Volumetric Breast Strain Elastography",
+    "journal": "IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control",
+    "date": "Jan 2017",
+    "authors": "Bo Peng, Yuqi Wang, Timothy J. Hall, Jingfeng Jiang",
+    "link": "https://ieeexplore.ieee.org/abstract/document/7837732",
+    "image": "./images/jiang7abcde-2661821-large.gif",
+    "type": 2
+  },
+  {
+    "title": "Relative Elastic Modulus Imaging Using Sector Ultrasound Data for Abdominal Applications: An Evaluation of Strategies and Feasibility",
+    "journal": "IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control",
+    "date": "Jul 2016",
+    "authors": "Bo Peng, Yu Wang, Wenjun Yang, Tomy Varghese",
+    "link": "https://ieeexplore.ieee.org/abstract/document/7508410",
+    "image": "./images/jiang1-2589270-large.gif",
+    "type": 1
   },
   {
     "title": "Phase division and recognition of crystal HRTEM images based on machine learning and deep learning",
@@ -48,10 +66,10 @@
     "title": "Seismic multiple attenuation based on improved U-Net",
     "journal": "Applied Geophysics",
     "date": "Apr 2024",
-    "authors": "Quan Zhang, Xiao-yu Lv, Qin Lei, Bo Peng",
+    "authors": "Quan Zhang, Xiaoyu Lv, Qin Lei, Bo Peng",
     "link": "https://link.springer.com/article/10.1007/s11770-024-1080-0",
     "image": "./images/PixPin_2024-09-11_16-40-52.png",
-    "type": 3
+    "type": 2
   },
   {
     "title": "ISHS-Net: Single-View 3D Reconstruction by Fusing Features of Image and Shape Hierarchical Structures",
@@ -111,7 +129,7 @@
     "title": "An image quality assessment method based on edge extraction and singular value for blurriness",
     "journal": "Machine Vision and Applications",
     "date": "Mar 2024",
-    "authors": "Lei Zhou, Chuanlin Liu, Amit Yadav, Sami Azam & Asif Karim",
+    "authors": "Lei Zhou, Chuanlin Liu, Amit Yadav, Sami Azam, Asif Karim",
     "link": "https://link.springer.com/article/10.1007/s00138-024-01522-6",
     "image": "./images/138_2024_1522_Fig3_HTML.webp",
     "type": 1
@@ -126,28 +144,28 @@
     "type": 1
   },
   {
-    "title": "Efficient Siamese model for visual object tracking with attention-based fusion modules",
-    "journal": "Signal, Image and Video Processing",
-    "date": "Jul 2024",
-    "authors": "Wenjun Zhou, Yao Liu, Nan Wang, Dong Liang & Bo Peng",
-    "link": "https://link.springer.com/article/10.1007/s11760-024-03429-1",
-    "image": "./images/11760_2024_3429_Fig1_HTML.webp",
-    "type": 1
-  },
-  {
     "title": "Efficient Microbubble Trajectory Tracking in Ultrasound Localization Microscopy Using a Gated Recurrent Unit-Based Multitasking Temporal Neural Network",
     "journal": "IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control",
     "date": "Jul 2024",
     "authors": "Yuting Zhang, Wenjun Zhou, Lijie Huang, Yongjie Shao",
     "link": "https://ieeexplore.ieee.org/abstract/document/10589426",
     "image": "./images/PixPin_2024-09-12_11-12-22.png",
-    "type": 4
+    "type": 1
+  },
+  {
+    "title": "Efficient Siamese model for visual object tracking with attention-based fusion modules",
+    "journal": "Signal, Image and Video Processing",
+    "date": "Jul 2024",
+    "authors": "Wenjun Zhou, Yao Liu, Nan Wang, Dong Liang, Bo Peng",
+    "link": "https://link.springer.com/article/10.1007/s11760-024-03429-1",
+    "image": "./images/11760_2024_3429_Fig1_HTML.webp",
+    "type": 1
   },
   {
     "title": "Precision in visual object tracking: a dual-branch approach",
     "journal": "Journal of Electronic Imaging",
     "date": "Mar 2024",
-    "authors": "WenJun Zhou, Nan Wang, Dong Liang, Bo Peng",
+    "authors": "Wenjun Zhou, Nan Wang, Dong Liang, Bo Peng",
     "link": "https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-33/issue-2/023023/Precision-in-visual-object-tracking-a-dual-branch-approach/10.1117/1.JEI.33.2.023023.short#_=_",
     "image": "./images/PixPin_2024-09-12_11-14-30.png",
     "type": 1
@@ -156,7 +174,7 @@
     "title": "A BiGRU joint optimized attention network for recognition of drilling conditions",
     "journal": "Petroleum Science",
     "date": "Jan 2024",
-    "authors": "Ying Qiao, Hong-Min Xu, Wen-Jun Zhou, Bo Peng",
+    "authors": "Ying Qiao, Hongmin Xu, Wenjun Zhou, Bo Peng",
     "link": "https://www.sciencedirect.com/science/article/pii/S1995822623001462",
     "image": "./images/1-s2.0-S1995822623001462-gr1.jpg",
     "type": 3
@@ -165,16 +183,16 @@
     "title": "Spatial-Temporal Graph Convolutional Network for Insomnia Classification via Brain Functional Connectivity Imaging of rs-fMRI",
     "journal": "Pattern Recognition and Computer Vision",
     "date": "Dec 2023",
-    "authors": "Wenjun Zhou, Weicheng Luo, Liang Gong, Jing Ou & Bo Peng",
+    "authors": "Wenjun Zhou, Weicheng Luo, Liang Gong, Jing Ou, Bo Peng",
     "link": "https://link.springer.com/chapter/10.1007/978-981-99-8558-6_10",
     "image": "./images/557759_1_En_10_Fig1_HTML.webp",
-    "type": 4
+    "type": 1
   },
   {
     "title": "Visual Tracking Based on Efficient Dual-Branch Siamese Network",
     "journal": "2023 IEEE International Conference on Systems, Man, and Cybernetics",
     "date": "Oct 2023",
-    "authors": "WenJun Zhou, Nan Wang, Dong Liang, Bo Peng",
+    "authors": "Wenjun Zhou, Nan Wang, Dong Liang, Bo Peng",
     "link": "https://ieeexplore.ieee.org/abstract/document/10394447",
     "image": "./images/10394447-fig-1-source-large.gif",
     "type": 1
@@ -210,7 +228,7 @@
     "title": "Shadow Detection of Remote Sensing Image by Fusion of Involution and Shunted Transformer",
     "journal": "Pattern Recognition and Computer Vision",
     "date": "Dec 2023",
-    "authors": "Yifan Wang, Jianlin Wang, Xian Huang, Tong Zhou",
+    "authors": "Yifan Wang, Jianlin Wang, Xian Huang, Tong Zhou, Wenjun Zhou, Bo Peng",
     "link": "https://link.springer.com/chapter/10.1007/978-981-99-8462-6_27",
     "image": "./images/553914_1_En_27_Fig1_HTML.webp",
     "type": 1
