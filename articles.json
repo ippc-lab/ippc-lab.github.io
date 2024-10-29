@@ -126,6 +126,15 @@
     "type": 2
   },
   {
+    "title": "MSFF-GAN: a Dehazing Model for Icing Wind Tunnel Images in Cloudy Conditions",
+    "journal": "Chinese Journal of Image and Graphics",
+    "date": "Oct 2024",
+    "authors": "Zhou Wenjun,Yang Xinling,Zuo Chenglin, Yifan Wang",
+    "link": "https://cjig.cn/zh/article/doi/10.11834/jig.240343/",
+    "image": "./images/2DC6C051-DBA6-4019-ABCB-4638BF653077-F002.jpg",
+    "type": 1
+  },
+  {
     "title": "An image quality assessment method based on edge extraction and singular value for blurriness",
     "journal": "Machine Vision and Applications",
     "date": "Mar 2024",
@@ -213,6 +222,15 @@
     "authors": "Yuheng Deng, Wenjun Zhou, Bo Peng, Dong Liang",
     "link": "https://ieeexplore.ieee.org/abstract/document/9414796",
     "image": "./images/deng1-p5-deng-large.gif",
+    "type": 1
+  },
+  {
+    "title": "An Ensemble Learning Algorithm for Cognitive Evaluation by an Immersive Virtual Reality Supermarket",
+    "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+    "date": "Sep 2024",
+    "authors": "Yifan Wang, Ping Yang, Jiangtao Yu, Shang Zhang",
+    "link": "https://ieeexplore.ieee.org/abstract/document/10700781",
+    "image": "./images/wang4-3470802-large.gif",
     "type": 1
   },
   {
