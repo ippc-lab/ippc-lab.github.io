@@ -1,5 +1,14 @@
 [
   {
+    "title": "Infrared small target detection via contrast-enhanced dual-branch network",
+    "journal": "Digital Signal Processing",
+    "date": "Jan 2025",
+    "authors": "Bolin Xiao, Wenjun Zhou, Tianfei Wang, Quan Zhang, Bo Peng",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1051200425000107",
+    "image": "./images/1-s2.0-S1051200425000107-gr002.jpg",
+    "type": 1
+  },
+  {
     "title": "Enhancing ECG Heartbeat classification with feature fusion neural networks and dynamic minority-biased batch weighting loss function",
     "journal": "Physiological Measurement",
     "date": "Jul 2024",
