@@ -1,5 +1,14 @@
 [
   {
+    "title": "Enhanced early diagnosis of Alzheimer's disease with HybridCA-Net: A multimodal fusion approach",
+    "journal": "Expert Systems with Applications",
+    "date": "Jun 2025",
+    "authors": "Wenjun Zhou, Weicheng Luo, Liang Gong, Bo Peng",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0957417425021992",
+    "image": "./images/1-s2.0-S0957417425021992-gr1_lrg.jpg",
+    "type": 1
+  },
+  {
     "title": "Infrared small target detection via contrast-enhanced dual-branch network",
     "journal": "Digital Signal Processing",
     "date": "Jan 2025",
