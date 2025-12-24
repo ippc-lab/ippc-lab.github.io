@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Bo Peng (彭博)",
+    "title": "Leader, professor",
+    "image": "./images/pengbo.jpg",
+    "link": "https://mtubpeng1.github.io"
+  },
+  {
+    "name": "Quan Zhang (张全)",
+    "title": "Associate professor",
+    "image": "./images/zhangquan.jpg",
+    "link": "https://zqswpu.github.io/"
+  },
+  {
+    "name": "Chuanlin Liu (刘传林)",
+    "title": "Associate professor",
+    "image": "./images/liuchuanlin.png",
+    "link": "https://www.swpu.edu.cn/scs/info/1192/4927.htm"
+  },
+  {
+    "name": "Wenjun Zhou (周文俊)",
+    "title": "Lecturer",
+    "image": "./images/zhouwenjun.jpg",
+    "link": "https://zwj1archer.github.io/"
+  },
+  {
+    "name": "Yifan Wang (王一帆)",
+    "title": "Lecturer",
+    "image": "./images/wangyifan.jpg",
+    "link": "https://www.swpu.edu.cn/scs/info/1170/6569.htm"
+  },
+  {
+    "name": "Li Yan (李艳)",
+    "title": "Lecturer",
+    "image": "./images/liyan.jpg",
+    "link": ""
+  },
+  {
+    "name": "Jiachen Dang (党佳晨)",
+    "title": "Lecturer",
+    "image": "./images/dangjiachen.jpg",
+    "link": "https://denijsonc.github.io/"
+  },
+  {
+    "name": "Xu Li (李旭)",
+    "title": "Lecturer",
+    "image": "./images/lixu.jpg",
+    "link": ""
+  }
+]

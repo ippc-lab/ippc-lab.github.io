@@ -1,0 +1,61 @@
+// 引入 Bootstrap 的变量和函数以便覆盖
+@import "bootstrap/scss/functions";
+@import "bootstrap/scss/variables";
+
+// 自定义变量
+$font-family-sans-serif: 'Inter', 'Noto Sans SC', system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$primary: #0d3b66; // Deep Blue for academic feel
+$secondary: #6c757d;
+$light: #f8f9fa;
+$dark: #212529;
+
+// 覆盖 Bootstrap 默认值
+$body-bg: #fdfdfd;
+$body-color: #333;
+$border-radius: 0.5rem;
+$box-shadow-sm: 0 .125rem .25rem rgba(0,0,0,.075);
+$box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
+
+// 引入 Bootstrap
+@import "bootstrap/scss/bootstrap";
+@import "bootstrap-icons/font/bootstrap-icons.css";
+
+// 自定义全局样式
+body {
+  font-family: $font-family-sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.card {
+  border: none;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: $box-shadow;
+  }
+}
+
+.section-title {
+  position: relative;
+  display: inline-block;
+  margin-bottom: 2rem;
+  padding-bottom: 0.5rem;
+  font-weight: 700;
+  
+  &::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 60px;
+    height: 4px;
+    background-color: $primary;
+    border-radius: 2px;
+  }
+}
+
+.text-justify {
+  text-align: justify;
+}
